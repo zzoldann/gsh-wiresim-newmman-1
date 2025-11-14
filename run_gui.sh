@@ -1,3 +1,7 @@
+# Пример запуска GUI
+
+# run_gui.sh
+
 #!/usr/bin/env bash
 set -euo pipefail
 : "${PRJ:?Set PRJ to your project root, e.g. /home/soltino/work/Bacup/GSH_Prizma_UAV-v2.X_templates-2.0.1a6-src}"
