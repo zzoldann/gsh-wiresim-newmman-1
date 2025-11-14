@@ -1,5 +1,7 @@
 # BUILD.md
 
+## Пример
+
 **Текущая версия:** 2.0.1a6  
 **Build:** compat96k-runnerhf6
 
